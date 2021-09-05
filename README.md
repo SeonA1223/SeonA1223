@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 박선아(Park SeonA) Back-end Developer 👩‍💻
+### 박선아(Park SeonA) Back-end Developer 👩‍💻
 
 😀If you can dream it,  you can do it. 과감하게 꿈꾸자!!😃
 
