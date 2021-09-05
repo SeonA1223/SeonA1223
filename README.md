@@ -2,7 +2,7 @@
 
 #### 박선아(Park SeonA) Back-end Developer 👩‍💻
 
-![😀](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)If you can dream it,  you can do it. 과감하게 꿈꾸자!![😃](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
+😀If you can dream it,  you can do it. 과감하게 꿈꾸자!!😃
 
 ### Contact
 
@@ -66,8 +66,6 @@
 - 이브와 ICT 공모전 은상
 - 서울과학기술대학교 IP 창업경진대회 최우수상
 - 노원그린캠퍼스타운 창업 콘테스트 우수상
-
-### 
 
 ### Certificate
 
