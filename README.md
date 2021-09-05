@@ -6,8 +6,9 @@
 
 ### Contact
 
-- E-mail : bsa14523@gmail.com
-- Github : @SeonA1223
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"> [@SeonA1223](https://github.com/SeonA1223)
+<br/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"> bsa14523@gmail.com
 
 ### Activity
 
@@ -22,29 +23,43 @@
 ### Skills
 
 #### Backend
-
-- java
-- SpringFramework(Boot, MVC)
-- JPA, MyBatis
-- Maven, Gradle
-- IntelliJ 
-- MySQL, Redis, Firebase
+<div>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white">
+</div>
+<div>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white">
+<img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white">
+</div>
+<div>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff">
+</div>
 
 #### Devops
 
-- AWS ec2
--  Nginx    
-- Jenkins
+<div>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white">
+</div>
 
 #### Frontend
-
-- HTML5, CSS3, JavaScript
-- react, Vue3 
+<div>
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
+</div>
 
 #### Collaboration
-
-- Jira
-- Slack, Mattermost
+<div>
+<img src="http://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=git&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
+</div>
 
 ### Prize
 
@@ -59,6 +74,5 @@
 - OPIC IH
 - Toeic 890
 - 정보처리기사
-
 
 
