@@ -76,3 +76,9 @@
 - OO대학교 IP 창업경진대회 최우수상
 - OO그린캠퍼스타운 창업 콘테스트 우수상
 
+### Certificate
+
+ - OPIC IH
+ - Samsung Certificated Professional
+ - Data Science 2 
+ - 정보처리기사
